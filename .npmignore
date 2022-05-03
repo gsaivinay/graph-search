@@ -14,7 +14,11 @@
 
 # production
 /build
-/dist
+
+# npm
+.tsconfig.json
+.eslintrc.json
+/src
 
 # misc
 /ndoe-rules-copy

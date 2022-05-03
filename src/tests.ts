@@ -1,4 +1,6 @@
-import Graph from "./Graph";
+import Graph from "../dist";
+
+console.log(Graph)
 
 // Sample graph input object
 let edges = [

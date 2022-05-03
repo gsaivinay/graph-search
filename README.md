@@ -1,4 +1,4 @@
-# Graph Seach Alogorithms Implemntation in Javscript
+# Graph Seach Alogorithms Implementation in Javascript
 
 Simple and fast library containing collection of algorithms to search and traverse graphs using DFS or BFS, and also detect cycles in directed graph input.
 
