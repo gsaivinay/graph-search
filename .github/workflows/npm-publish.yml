@@ -3,7 +3,7 @@
 
 name: graph-seach npm
 
-on:
+on: push
   release:
     types: [created]
   workflow_dispatch:
