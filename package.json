@@ -1,10 +1,10 @@
 {
   "name": "@gsvlabs/graph-search",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Simple library to search and traverse graphs using DFS, BFS algorithms, and also detect cycles in directed graph input",
   "main": "./dist/src",
   "files": [
-    "/src"
+    "/dist/src"
   ],
   "scripts": {
     "start": "ts-node src/index.ts",
