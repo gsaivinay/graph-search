@@ -1,0 +1,24 @@
+{
+  "name": "@gsvlabs/graph-search",
+  "version": "0.0.3",
+  "description": "Simple library to search and traverse graphs using DFS, BFS algorithms, and also detect cycles in directed graph input",
+  "main": "./src/Graph.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "ts-node src/tests.ts",
+    "build": "tsc --build"
+  },
+  "keywords": [
+    "graph",
+    "search",
+    "traversal",
+    "DAG",
+    "directed",
+    "acyclic",
+    "cyclic",
+    "undirected",
+    "graphs"
+  ],
+  "author": "Sai Vinay G",
+  "license": "MIT"
+}
