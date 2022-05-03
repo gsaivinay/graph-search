@@ -1,4 +1,4 @@
-import Graph from "../dist";
+import Graph from "./src";
 
 console.log(Graph)
 
