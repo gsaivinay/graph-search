@@ -19,6 +19,7 @@
 .tsconfig.json
 .eslintrc.json
 /src
+**/tests
 
 # misc
 /ndoe-rules-copy
