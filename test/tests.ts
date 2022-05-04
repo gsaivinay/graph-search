@@ -34,14 +34,18 @@ g.addFromObject(edges, 'source', 'target');
 // g.addEdge('13', '8');
 
 // Print graph with paths
-g.printGraph();
+console.log(g.getGraph());
 
 // Print if input directed graph is cyclic
 // Works only if input graph is set as directed in constructor `new Graph(true)`
-console.log(`is cyclic: ${g.isCyclic()}`);
+console.log(`Is cyclic: ${g.isCyclic()}`);
+
+// Check if path exists between two nodes
+// returns array[boolean, array[nodes]]
+console.log(g.isPathExists('9', '4'));
 
 // Print path from a source vertex with depth first search algorithm 
-g.dfs('0');
+console.log(g.dfs('0'));
 
 // Print path from a source vertex with breadth first search algorithm
-g.bfs('0');
+console.log(g.bfs('0'));
