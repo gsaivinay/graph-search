@@ -2,11 +2,13 @@
 
 Simple and fast library containing collection of algorithms to search and traverse graphs using DFS or BFS, check if a path exists between two nodes and also detect cycles in directed graph input.
 
-[![workflow](https://github.com/gsaivinay/graph-search/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gsaivinay/graph-search/actions/workflows/npm-publish.yml) [![npm version](https://img.shields.io/npm/v/@gsvlabs/graph-search)](https://www.npmjs.com/package/@gsvlabs/graph-search) [![NPM Downloads](https://img.shields.io/npm/dw/@gsvlabs/graph-search)](https://www.npmjs.com/package/@gsvlabs/graph-search) ![NPM License](https://img.shields.io/npm/l/@gsvlabs/graph-search)
+[![workflow](https://github.com/gsaivinay/graph-search/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/gsaivinay/graph-search/actions/workflows/npm-publish.yml) [![npm version](https://img.shields.io/npm/v/@gsvlabs/graph-search)](https://www.npmjs.com/package/@gsvlabs/graph-search) [![NPM Downloads](https://img.shields.io/npm/dt/@gsvlabs/graph-search)](https://www.npmjs.com/package/@gsvlabs/graph-search) ![NPM License](https://img.shields.io/npm/l/@gsvlabs/graph-search)
 
 ## Installation
 
-`npm i @gsvlabs/graph-search`
+```bash
+npm i @gsvlabs/graph-search
+```
 
 ## Usage
 
