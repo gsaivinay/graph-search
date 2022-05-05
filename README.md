@@ -17,7 +17,7 @@ npm i @gsvlabs/graph-search
 ```javascript
 import Graph from '@gsvlabs/graph-search';
 
-//For old fashioned require()
+//For old fashioned CommonJS
 const Graph = require('@gsvlabs/graph-search').default;
 
 // Sample graph input object
